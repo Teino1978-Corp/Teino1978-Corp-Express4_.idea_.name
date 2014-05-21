@@ -1,0 +1,3 @@
+[2014-05-21 16:08:45.267] [INFO] normal - 127.0.0.1 - - "GET /login HTTP/1.1" 200 1312 "" "Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20100101 Firefox/29.0"
+[2014-05-21 16:08:48.010] [INFO] normal - 127.0.0.1 - - "POST /login HTTP/1.1" 302 68 "http://localhost:3000/login" "Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20100101 Firefox/29.0"
+[2014-05-21 16:08:48.014] [INFO] normal - 127.0.0.1 - - "GET /login HTTP/1.1" 200 1376 "http://localhost:3000/login" "Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20100101 Firefox/29.0"
